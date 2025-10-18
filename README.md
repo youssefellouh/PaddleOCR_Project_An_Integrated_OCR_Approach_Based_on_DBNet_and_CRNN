@@ -53,6 +53,7 @@ PP-OCR is a practical ultra-lightweight OCR system. It is mainly composed of thr
     <img src="./doc/imgs_results/korean.jpg" width="800">
 </div>
 <a name="language_requests"></a>
+
 ### 1. Clone the Repository
 ```bash
  git clone https://github.com/youssefellouh/PaddleOCR_Project_An_Integrated_OCR_Approach_Based_on_DBNet_and_CRNN.git
